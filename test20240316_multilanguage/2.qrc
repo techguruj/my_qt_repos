@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/1">
+        <file>de.jpg</file>
+        <file>us.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>322.bmp</file>
+        <file>324.bmp</file>
+        <file>q_de.qm</file>
+        <file>q_us.qm</file>
+        <file>pic/de2.jpg</file>
+        <file>pic/us1.jpg</file>
+        <file>pic/de3.png</file>
+        <file>pic/us3.png</file>
+    </qresource>
+</RCC>

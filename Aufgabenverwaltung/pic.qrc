@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pics/de3.png</file>
+        <file>pics/exit.png</file>
+        <file>pics/left.png</file>
+        <file>pics/mainIconAufgabe.png</file>
+        <file>pics/right.png</file>
+        <file>pics/us3.png</file>
+        <file>pics/datetime.png</file>
+        <file>pics/newProject.png</file>
+        <file>pics/no.png</file>
+        <file>pics/yes.png</file>
+        <file>pics/now.png</file>
+        <file>pics/clear.png</file>
+        <file>pics/load.png</file>
+        <file>pics/sql.png</file>
+        <file>pics/progressbar5s.gif</file>
+        <file>pics/progressbar5-bs.gif</file>
+        <file>pics/Progressbar800x600.gif</file>
+        <file>pics/info.png</file>
+        <file>pics/newTask.png</file>
+        <file>pics/beenden.png</file>
+        <file>pics/noun-english.png</file>
+        <file>pics/noun-german.png</file>
+        <file>pics/sqlstudio.png</file>
+        <file>pics/SQL2.png</file>
+        <file>pics/SQL3.png</file>
+        <file>pics/SQL4.png</file>
+        <file>pics/SQL5.png</file>
+        <file>pics/DE2.png</file>
+        <file>pics/EN2.png</file>
+        <file>pics/refresh.png</file>
+        <file>pics/upload.png</file>
+        <file>pics/undo.png</file>
+        <file>q_de.qm</file>
+        <file>q_us.qm</file>
+    </qresource>
+</RCC>

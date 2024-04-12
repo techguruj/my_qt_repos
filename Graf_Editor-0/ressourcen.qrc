@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>_Editor_Icons/back_5.png</file>
+        <file>_Editor_Icons/copy_4.png</file>
+        <file>_Editor_Icons/cut_3.png</file>
+        <file>_Editor_Icons/find_3.png</file>
+        <file>_Editor_Icons/font_1.png</file>
+        <file>_Editor_Icons/forward_5.png</file>
+        <file>_Editor_Icons/new_1.png</file>
+        <file>_Editor_Icons/open_4.png</file>
+        <file>_Editor_Icons/paste_4.png</file>
+        <file>_Editor_Icons/print_1.png</file>
+        <file>_Editor_Icons/save_1.png</file>
+        <file>_Editor_Icons/save_4.png</file>
+    </qresource>
+</RCC>

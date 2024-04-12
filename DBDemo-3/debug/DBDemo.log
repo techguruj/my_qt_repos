@@ -1,0 +1,11 @@
+﻿  Generate moc_predefs.h
+  main.cpp
+  mitarbeiter.cpp
+  widget.cpp
+C:\Users\q\Documents\qt_repos\DBDemo-3\mitarbeiter.cpp(114,17): error C2597: illegal reference to non-static member 'Widget::_currentrecord'
+  C:\Users\q\Documents\qt_repos\DBDemo-3\widget.h(23,19):
+  see declaration of 'Widget::_currentrecord'
+  
+C:\Users\q\Documents\qt_repos\DBDemo-3\widget.cpp(159,56): warning C4100: 'arg1': unreferenced formal parameter
+C:\Users\q\Documents\qt_repos\DBDemo-3\widget.cpp(164,55): warning C4100: 'arg1': unreferenced formal parameter
+C:\Users\q\Documents\qt_repos\DBDemo-3\widget.cpp(170,53): warning C4100: 'arg1': unreferenced formal parameter

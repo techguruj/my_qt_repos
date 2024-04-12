@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Widget_Edit</class>
+ <widget class="QWidget" name="Widget_Edit">
+  <property name="windowModality">
+   <enum>Qt::ApplicationModal</enum>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Projekt Editor Pro</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="pic.qrc">
+    <normaloff>:/pics/mainIconAufgabe.png</normaloff>:/pics/mainIconAufgabe.png</iconset>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="1" column="0" colspan="3">
+    <widget class="QTableView" name="tableView">
+     <property name="editTriggers">
+      <set>QAbstractItemView::NoEditTriggers</set>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="2">
+    <widget class="QPushButton" name="pushButton_Beenden">
+     <property name="text">
+      <string> Beenden</string>
+     </property>
+     <property name="icon">
+      <iconset resource="pic.qrc">
+       <normaloff>:/pics/no.png</normaloff>:/pics/no.png</iconset>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="1">
+    <widget class="QPushButton" name="pushButton_UndoAll">
+     <property name="text">
+      <string> Undo_All</string>
+     </property>
+     <property name="icon">
+      <iconset resource="pic.qrc">
+       <normaloff>:/pics/undo.png</normaloff>:/pics/undo.png</iconset>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="0">
+    <widget class="QPushButton" name="pushButton_Hochladen">
+     <property name="text">
+      <string> Hochladen</string>
+     </property>
+     <property name="icon">
+      <iconset resource="pic.qrc">
+       <normaloff>:/pics/upload.png</normaloff>:/pics/upload.png</iconset>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources>
+  <include location="pic.qrc"/>
+ </resources>
+ <connections/>
+</ui>
